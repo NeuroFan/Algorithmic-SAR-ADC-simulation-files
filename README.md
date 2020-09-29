@@ -1,4 +1,3 @@
-This repositoy contains simulation files for the proposed ADC described in the Refrence [1]. 
 
 # Algorithmic-SAR-ADC-simulation-files
 Arithmetic Tracking Adaptive SAR ADCfor Low-activity Signals
