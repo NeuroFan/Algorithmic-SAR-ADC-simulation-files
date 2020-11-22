@@ -25,5 +25,5 @@ Please cite the following paper in case of using the provided simulations [1].
 
 *References*
 
-[1] Reza Inanlou, Mehdi Safarpour, Olli Silven, "Arithmetic Tracking Adaptive SAR ADC for Low-activity Signals", IEEE, 2020.
+[1] Reza Inanlou, Mehdi Safarpour, Olli Silven, "Arithmetic Tracking Adaptive SAR ADC for Low-activity Signals", IEEE Access Journal, 2020.
 
