@@ -1,6 +1,0 @@
-$DATA1 SOURCE='HSPICE' VERSION='A-2008.03 32-BIT'
-.TITLE '10_bit_arthsar_final'
- ivdd             ivdda            ivddd            ivddc             
- ivddac           temper           alter#            
- -2.648e-06       -1.000e-06       -1.571e-04       -1.000e-06        
- -1.000e-06         27.0000           1.0000         
