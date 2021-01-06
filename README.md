@@ -22,7 +22,7 @@ Main files:
 
 # Citation 
   
-Please cite the following paper in case of using the provided simulations [1].
+Please cite either of the following papers in case of using the provided simulations.
 
         @article{inanlou2020arithmetic,
           title={Arithmetic Tracking Adaptive SAR ADC for Signals with Low-activity Periods},
@@ -31,10 +31,16 @@ Please cite the following paper in case of using the provided simulations [1].
           year={2020},
           publisher={IEEE}
         }
+        
+        @inproceedings{safarpour2019reconfigurable,
+        title={A Reconfigurable Dual-Mode Tracking SAR ADC without Analog Subtraction},
+        author={Safarpour, Mehdi and Inanlou, Reza and Silv{\'e}n, Olli and Rahkonen, Timo and Shoaei, Omid},
+        booktitle={2019 Signal Processing: Algorithms, Architectures, Arrangements, and Applications (SPA)},
+        pages={28--32},
+        year={2019},
+        organization={IEEE}
+}
 
 
-# References*
 
-[1] Reza Inanlou, Mehdi Safarpour, Olli Silven, "Arithmetic Tracking Adaptive SAR ADC for Low-activity Signals", IEEE Access Journal, 2020.
-https://ieeexplore.ieee.org/abstract/document/9269394
 
