@@ -39,8 +39,6 @@ Please cite either of the following papers in case of using the provided simulat
         pages={28--32},
         year={2019},
         organization={IEEE}
-}
-
 
 
 
