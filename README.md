@@ -1,6 +1,6 @@
 
 # Algorithmic-SAR-ADC-simulation-files
-Arithmetic Tracking Adaptive SAR ADCfor Low-activity Signals
+Arithmetic Tracking Adaptive SAR ADCfor Low-activity Signals which include EEG, ECG, EKG, industrial and 2D (image) signals.
 
 Main files:
  Arithmetic_Tracking_WorkingVersion.m : MATLAB file for simualtion behavior of the proposed SAR ADC 
