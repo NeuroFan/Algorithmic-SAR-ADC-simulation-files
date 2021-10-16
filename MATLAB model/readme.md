@@ -5,7 +5,6 @@ Our implementation is **"Arithmetic_Tracking_WorkingVersion.m"**. Uncomments ins
 
 
 ECG signal generated using ECGSYN toolset downloaded form: https://physionet.org/content/ecgsyn/1.0.0/Matlab/ecgsyn.m
-
 EEG files are recieved the dataset downloaded form : http://bnci-horizon-2020.eu/database/data-sets
   
 
