@@ -1,1 +1,1 @@
-Access to all SPICE models are avaialbe through email.
+Complete SPICE model is available through email.
